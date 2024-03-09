@@ -10,10 +10,6 @@ Providing comprehensive solutions and explanations for LeetCode problems, making
 
 This Jekyll site transforms a collection of LeetCode problem solutions into an easily navigable, GitBook-styled resource. Each solution is accompanied by detailed explanations, code snippets, and insights to deepen your understanding of algorithms and data structures.
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
 ## Why This Resource
 
 While there are many platforms offering coding challenges, finding detailed explanations and efficient solutions can be challenging. This site aims to bridge that gap, offering a structured way to approach, solve, and understand LeetCode problems.
