@@ -18,7 +18,7 @@ While there are many platforms offering coding challenges, finding detailed expl
 
 To explore the solutions, visit the live demo:
 
-Live demo on Github Pages: [https://cherylmj01.github.io/leetcode-solutions](https://cherylmj01.github.io/leetcode-solutions)
+Live demo on Github Pages: [https://cherylmj01.github.io/Leetcode-solutions/](https://cherylmj01.github.io/Leetcode-solutions/)
 
 ## Features
 
